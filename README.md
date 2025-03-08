@@ -37,4 +37,4 @@ The **Olympics Data Analysis** project aims to analyze historical Olympic Games 
 
 LinkedIn: https://www.linkedin.com/in/mohsin--raza/
 
-GitHub: github.com/MohsinR11
+GitHub: [github.com/MohsinR11](https://github.com/MohsinR11)
