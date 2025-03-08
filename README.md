@@ -36,4 +36,5 @@ The **Olympics Data Analysis** project aims to analyze historical Olympic Games 
 ## If you found this project interesting or have any suggestions, feel free to connect with me on:
 
 LinkedIn: https://www.linkedin.com/in/mohsin--raza/
+
 GitHub: github.com/MohsinR11
