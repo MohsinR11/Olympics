@@ -1,40 +1,70 @@
-# 🏅 Olympics Data Analysis
+# 🏅 **Olympics Data Analysis**
 
-This project provides an in-depth analysis of Olympic Games data, exploring key insights such as medal counts, athlete performances, country-wise trends, and historical records. The analysis is presented through interactive visualizations.
+---
 
-## 📌 Project Overview
+## 📌 **Project Overview**
 
-The **Olympics Data Analysis** project aims to analyze historical Olympic Games data to uncover patterns and trends. This includes:
-- **Medal Distribution** 🏅
-- **Athlete Performance** 👤
-- **Country-wise Achievements** 🌍
-- **Historical Trends** 📊
-- **Host Nation Impact** 🏟️
+This **Olympics Data Analysis** project explores the **history, performance, and patterns** of the Olympic Games using **interactive visualizations** built with **Power BI** and **Tableau**.
 
-## 📂 Dataset Information
+It highlights:
+- 🏅 **Medal Distribution** — Which countries lead the medal tally?
+- 👤 **Athlete Performance** — Who stands out by age, gender, and sport?
+- 🌍 **Country-wise Trends** — How have different nations performed over time?
+- 📊 **Historical Trends** — How have events, participation, and sports evolved?
+- 🏟️ **Host Nation Impact** — Does hosting affect medal counts?
 
-- The dataset contains records from multiple Olympic events over the years.
-- Key columns in the dataset include:
-  - `Year`, `Sport`, `Event`, `Athlete`, `Country`, `Medal`, `Age`, `Gender`, `Team`, etc.
-- Data has been cleaned and processed for better insights.
+---
 
-## 🛠️ Tools & Technologies Used
+## 📂 **Dataset Details**
 
-- **Power BI / Tableau** – Data visualization 📈
-- **Python (Pandas, NumPy)** – Data preprocessing 🐍
-- **SQL** – Data extraction and querying 🔍
-- **Excel** – Initial data handling 📊
+- Covers **multiple Olympic events** from the modern era.
+- Core columns:
+  - `Year`, `Sport`, `Event`, `Athlete`, `Country`, `Team`, `Gender`, `Age`, `Medal`
+- Data cleaned and preprocessed for **accurate, meaningful insights**.
 
-## 📊 Key Insights
+---
 
-- Countries like **USA, China, and Russia** have historically dominated the medal tally.
-- The number of Olympic events has **increased over the years**, introducing more diverse sports.
-- Host countries often perform better due to home advantage.
-- **Athletes aged 20-30** tend to win more medals in most sports.
-- Women's participation has **significantly increased** in recent Olympics.
+## 🛠️ **Tools & Technologies**
 
-## If you found this project interesting or have any suggestions, feel free to connect with me on:
+- **Power BI & Tableau** — For dashboards and visual storytelling
+- **Python (Pandas, NumPy)** — Data wrangling and transformation
+- **SQL** — Data extraction and querying
+- **Microsoft Excel** — Initial data inspection and prep
 
-LinkedIn: https://www.linkedin.com/in/mohsin--raza/
+---
 
-GitHub: [github.com/MohsinR11](https://github.com/MohsinR11)
+## 📊 **Key Insights**
+
+- 🇺🇸 **USA**, 🇨🇳 **China**, and 🇷🇺 **Russia** consistently **dominate medal tables**.
+- 🏆 Number of sports/events has **grown steadily**, diversifying athlete opportunities.
+- 🏟️ Host nations often perform **better**, benefiting from **home advantage**.
+- 👶 Athletes aged **20–30** win the majority of medals.
+- 🚺 Women’s participation has **increased dramatically** in recent editions.
+
+---
+
+## 🚀 **How to Use**
+
+- 📂 Open the **Power BI (.pbix)** or **Tableau (.twbx)** file.
+- 🎛️ Use **filters** to explore by year, country, sport, gender, and more.
+- 🔍 Hover and click to drill down for deeper insights.
+
+---
+
+## 💡 **What I Learned**
+
+✅ Building **multi-layered dashboards**  
+✅ Using **DAX & calculated fields** for custom measures  
+✅ Advanced **data cleaning** with **Python and SQL**  
+✅ Telling a **data story** visually for stakeholders
+
+---
+
+## 📬 **Let’s Connect!**
+
+If you like this project or have suggestions, feel free to connect:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza/)
+
+---
+
+✨ **If this helped you, please star the repo!** ⭐️
